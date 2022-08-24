@@ -3,5 +3,5 @@ layout: page
 title: About
 permalink: /about
 ---
+  In which I share our valiant attempts to make DIY updates to our 1905 Seattle American Foursquare and subsequently score said updates with a relevant song. Life is theater, people.
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
