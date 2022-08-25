@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		          "Brokedown Palace"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+description:	       "In which I share our valiant attempts to make DIY updates to our 1905 Seattle American Foursquare and subsequently score said updates with a relevant song. Life is theater, people."
+author:              "Kirsten Wright"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
